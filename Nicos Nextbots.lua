@@ -1,3 +1,10 @@
+LRM_UserNote = "Dev"
+getgenv().key = "a"
+getgenv().Key = "b"
+getgenv().vVersion = "1.6.4 BETA"
+
+
+
 local myString = key
 local firstFour = string.sub(myString, 1, 9)
 
